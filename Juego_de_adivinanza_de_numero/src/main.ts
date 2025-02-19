@@ -1,3 +1,9 @@
-import "./style.css";
+let numeroAcierto = 0;
 
-console.log("Hello Typescript!");
+const numeroAleatorio = () => Math.floor(Math.random()*100)+1;
+
+const PedirNumero = () =>{
+
+    numeroAcierto = parseInt()
+}
+    
